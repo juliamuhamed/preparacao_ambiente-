@@ -15,3 +15,11 @@ Esse repositório reúne informações sobre as tecnologias utilizadas para a pr
 - Ambiente Virtual (conda)
 
 - Editor de código (VSCode)
+
+## Markdown 
+
+...
+ls minha_pasta
+...
+
+_**teste markdown**_
