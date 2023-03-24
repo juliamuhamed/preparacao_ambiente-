@@ -18,7 +18,8 @@ Esse repositório reúne informações sobre as tecnologias utilizadas para a pr
 
 ## Markdown 
 
-`ls minha_pasta`
+```
+ls minha_pasta
 
-
+```
 _**teste markdown**_
