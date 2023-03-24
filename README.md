@@ -1,4 +1,4 @@
-# preparacao_ambiente-
+# Preparação de Ambiente de Trabalho
 
 Esse repositório reúne informações sobre as tecnologias utilizadas para a preparação do ambiente de trabalho 
 
